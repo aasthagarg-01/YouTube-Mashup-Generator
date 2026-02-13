@@ -106,5 +106,3 @@ python 102313059.py "Arijit Singh" 15 30 mashup.mp3
 ## Conclusion
 
 This project demonstrates practical implementation of multimedia processing using Python. It integrates external libraries to automate YouTube video retrieval, audio extraction, trimming, and merging. The final output is a custom mashup file generated based on user-provided parameters.
-
-The program fulfills all functional requirements specified for Program 1 of the assignment.
